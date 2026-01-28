@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.exe.config
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\bin\Debug\VerbatimStringLiteral.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\VerbatimStringLiteral\VerbatimStringLiteral\obj\Debug\VerbatimStringLiteral.pdb

@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\bin\Debug\UsernameChecker.exe.config
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\bin\Debug\UsernameChecker.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\bin\Debug\UsernameChecker.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\obj\Debug\UsernameChecker.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\obj\Debug\UsernameChecker.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\obj\Debug\UsernameChecker.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\UsernameChecker\UsernameChecker\obj\Debug\UsernameChecker.pdb

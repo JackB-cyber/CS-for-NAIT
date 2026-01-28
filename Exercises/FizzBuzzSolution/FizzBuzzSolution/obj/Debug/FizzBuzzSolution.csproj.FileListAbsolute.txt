@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\bin\Debug\FizzBuzzSolution.exe.config
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\bin\Debug\FizzBuzzSolution.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\bin\Debug\FizzBuzzSolution.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\FizzBuzzSolution\FizzBuzzSolution\obj\Debug\FizzBuzzSolution.pdb

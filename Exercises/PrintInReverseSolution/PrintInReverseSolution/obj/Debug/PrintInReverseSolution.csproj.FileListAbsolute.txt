@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\bin\Debug\PrintInReverseSolution.exe.config
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\bin\Debug\PrintInReverseSolution.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\bin\Debug\PrintInReverseSolution.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\obj\Debug\PrintInReverseSolution.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\obj\Debug\PrintInReverseSolution.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\obj\Debug\PrintInReverseSolution.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\PrintInReverseSolution\PrintInReverseSolution\obj\Debug\PrintInReverseSolution.pdb

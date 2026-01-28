@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\bin\Debug\TimesTableSolution.exe.config
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\bin\Debug\TimesTableSolution.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\bin\Debug\TimesTableSolution.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\obj\Debug\TimesTableSolution.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\obj\Debug\TimesTableSolution.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\obj\Debug\TimesTableSolution.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\Exercises\TimesTableSolution\TimesTableSolution\obj\Debug\TimesTableSolution.pdb

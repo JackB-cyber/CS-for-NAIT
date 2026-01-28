@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\jacks\OneDrive\Desktop\School\CS-for-NAIT\ADVANCED\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb

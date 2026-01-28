@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacks\\OneDrive\\Desktop\\School\\CS-for-NAIT\\Exercises\\PasswordCheckerExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EDB88F-E2CF-4198-95CD-33BB0E6246CB}|PasswordCheckerExercise\\PasswordCheckerExercise.csproj|c:\\users\\jacks\\onedrive\\desktop\\school\\cs-for-nait\\exercises\\passwordcheckerexercise\\passwordcheckerexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EDB88F-E2CF-4198-95CD-33BB0E6246CB}|PasswordCheckerExercise\\PasswordCheckerExercise.csproj|solutionrelative:passwordcheckerexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacks\\OneDrive\\Desktop\\School\\CS-for-NAIT\\Exercises\\PasswordCheckerExercise\\PasswordCheckerExercise\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordCheckerExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\jacks\\OneDrive\\Desktop\\School\\CS-for-NAIT\\Exercises\\PasswordCheckerExercise\\PasswordCheckerExercise\\Program.cs",
+              "RelativeToolTip": "PasswordCheckerExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T19:32:09.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
