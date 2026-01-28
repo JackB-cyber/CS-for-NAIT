@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Operators\Operators\obj\Debug\Operators.pdb

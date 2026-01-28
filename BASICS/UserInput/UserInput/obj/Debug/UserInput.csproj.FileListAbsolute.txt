@@ -1,0 +1,14 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\UserInput\UserInput\obj\Debug\UserInput.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\obj\Debug\UserInput.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\BASICS\UserInput\UserInput\bin\Debug\UserInput.pdb

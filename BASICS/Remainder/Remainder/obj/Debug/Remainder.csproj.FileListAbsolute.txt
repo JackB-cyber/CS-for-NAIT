@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\bin\Debug\Remainder.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\bin\Debug\Remainder.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\bin\Debug\Remainder.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\obj\Debug\Remainder.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\obj\Debug\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\obj\Debug\Remainder.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\Remainder\Remainder\obj\Debug\Remainder.pdb

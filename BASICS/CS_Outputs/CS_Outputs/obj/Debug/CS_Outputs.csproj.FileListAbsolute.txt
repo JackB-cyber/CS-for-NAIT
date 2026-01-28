@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\bin\Debug\CS_Outputs.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\bin\Debug\CS_Outputs.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\bin\Debug\CS_Outputs.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\obj\Debug\CS_Outputs.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\obj\Debug\CS_Outputs.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\obj\Debug\CS_Outputs.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\CS_Outputs\CS_Outputs\obj\Debug\CS_Outputs.pdb

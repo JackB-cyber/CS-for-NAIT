@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\bin\Debug\Boolean.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\bin\Debug\Boolean.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\obj\Debug\Boolean.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\obj\Debug\Boolean.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Boolean\Boolean\obj\Debug\Boolean.pdb

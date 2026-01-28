@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\obj\Debug\Conversions.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\Conversions\Conversions\obj\Debug\Conversions.pdb

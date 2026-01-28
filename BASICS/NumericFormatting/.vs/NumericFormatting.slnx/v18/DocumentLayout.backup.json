@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jacks\\OneDrive\\Desktop\\Programming practice\\My Cheatsheet\\NumericFormatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BADBC69F-ADE5-4A6A-A0E8-BA19A53FAD4B}|NumericFormatting\\NumericFormatting.csproj|c:\\users\\jacks\\onedrive\\desktop\\programming practice\\my cheatsheet\\numericformatting\\numericformatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADBC69F-ADE5-4A6A-A0E8-BA19A53FAD4B}|NumericFormatting\\NumericFormatting.csproj|solutionrelative:numericformatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jacks\\OneDrive\\Desktop\\Programming practice\\My Cheatsheet\\NumericFormatting\\NumericFormatting\\Program.cs",
+              "RelativeDocumentMoniker": "NumericFormatting\\Program.cs",
+              "ToolTip": "C:\\Users\\jacks\\OneDrive\\Desktop\\Programming practice\\My Cheatsheet\\NumericFormatting\\NumericFormatting\\Program.cs*",
+              "RelativeToolTip": "NumericFormatting\\Program.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T01:10:09.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

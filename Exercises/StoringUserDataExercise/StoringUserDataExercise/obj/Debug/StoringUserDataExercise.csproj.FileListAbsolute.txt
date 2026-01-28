@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\bin\Debug\StoringUserDataExercise.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\bin\Debug\StoringUserDataExercise.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\bin\Debug\StoringUserDataExercise.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\obj\Debug\StoringUserDataExercise.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\obj\Debug\StoringUserDataExercise.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\obj\Debug\StoringUserDataExercise.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\StoringUserDataExercise\StoringUserDataExercise\obj\Debug\StoringUserDataExercise.pdb

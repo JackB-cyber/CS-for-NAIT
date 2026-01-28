@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\bin\Debug\OddEvenCheckerExercise.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\bin\Debug\OddEvenCheckerExercise.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\bin\Debug\OddEvenCheckerExercise.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\obj\Debug\OddEvenCheckerExercise.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\obj\Debug\OddEvenCheckerExercise.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\obj\Debug\OddEvenCheckerExercise.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\OddEvenCheckerExercise\OddEvenCheckerExercise\obj\Debug\OddEvenCheckerExercise.pdb

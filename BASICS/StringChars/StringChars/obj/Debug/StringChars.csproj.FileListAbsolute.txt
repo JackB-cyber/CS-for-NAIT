@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\bin\Debug\StringChars.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\bin\Debug\StringChars.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\bin\Debug\StringChars.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\obj\Debug\StringChars.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\obj\Debug\StringChars.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\obj\Debug\StringChars.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\StringChars\StringChars\obj\Debug\StringChars.pdb

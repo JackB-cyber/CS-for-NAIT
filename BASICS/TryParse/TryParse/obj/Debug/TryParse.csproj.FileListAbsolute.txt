@@ -1,0 +1,7 @@
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\jacks\OneDrive\Desktop\Programming practice\My Cheatsheet\TryParse\TryParse\obj\Debug\TryParse.pdb
